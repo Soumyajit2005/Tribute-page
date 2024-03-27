@@ -40,3 +40,18 @@
 .image-div #image{
     width: 70vw;
 }
+
+.container .second{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.second ul{
+    width: 63%;
+}
+
+.date{
+    font-weight: bold;
+}
